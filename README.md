@@ -8,10 +8,23 @@
 
 Hi,I'm Senda Nasr🙌, a Data Analyst and Python Developer. I love getting involved in challanging problems and analysis and continue my journey to learn and grow ❤✌
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your GitHub Repositories</title>
+</head>
+<body>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+  <h1>Your GitHub Repositories</h1>
 
+  <!-- Replace "YourUsername" with your GitHub username -->
+  <ul>
+    <li><a href="https://github.com/Senda-Nasr/E-Commerce-Behavior-Analysis">E-Commerce Customer Behavior Analysis</a></li>
+    <li><a href="https://github.com/Senda-Nasr/Car-Crashes-Analysis">Car Crashes Analysis</a></li>
+    <li><a href="https://github.com/Senda-Nasr/Song-Recommender">Song Recommender</a></li>
+    <!-- Add more repositories as needed -->
+  </ul>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</body>
+</html>
