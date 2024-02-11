@@ -12,11 +12,11 @@ Hi,I'm Senda Nasr🙌, a Data Analyst and Python Developer. I love getting invol
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your GitHub Repositories</title>
+  <title>My GitHub Repositories</title>
 </head>
 <body>
 
-  <h1>Your GitHub Repositories</h1>
+  <h1>My GitHub Repositories</h1>
 
   <!-- Replace "YourUsername" with your GitHub username -->
   <ul>
