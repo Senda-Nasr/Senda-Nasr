@@ -1,6 +1,6 @@
 ### Hello World 👋 It's [Senda!](https://github.com/Senda-Nasr)
 
-Hi,I'm Senda Nasr🙌, a Data Analyst and Python Developer. I love getting involved in challenging problems and analysis and continue my journey to learn and grow ❤✌
+I am a Data Analyst and Python Developer who loves getting involved in challenging problems and analysis. I am on a journey to learn and grow.❤✌
 
   <h1>My GitHub Repositories</h1>
 
