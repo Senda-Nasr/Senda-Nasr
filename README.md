@@ -1,12 +1,6 @@
 ### Hello World 👋 It's [Senda!](https://github.com/Senda-Nasr)
 
-<br/>
-<a href="https://www.linkedin.com/in/sendanasr/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-
-Hi,I'm Senda Nasr🙌, a Data Analyst and Python Developer. I love getting involved in challanging problems and analysis and continue my journey to learn and grow ❤✌
+Hi,I'm Senda Nasr🙌, a Data Analyst and Python Developer. I love getting involved in challenging problems and analysis and continue my journey to learn and grow ❤✌
 
 <html lang="en">
 <head>
